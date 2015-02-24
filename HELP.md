@@ -1,5 +1,11 @@
 # How to work GitHub
 <br><br><br>
+#Creating a username<br>
+  ->Username<br>
+  ->Email<br>
+  ->Password<br>
+    ->Sign up<br>
+      ->Select Free Account<br><br><br>
 #Create a new Repositry:<br>
 Generation-i Generation-ii (are repositries)<br>
   Go to: https://github.com/SCC-Turing-Machine<br>
