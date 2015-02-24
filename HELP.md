@@ -7,7 +7,7 @@
     ->Sign up<br>
       ->Select Free Account<br><br><br>
 #Create a new Repositry:<br>
-Generation-i Generation-ii (are repositries)<br>
+Generation-i and  Generation-ii (are repositries)<br>
   Go to: https://github.com/SCC-Turing-Machine<br>
     -> Click: +New Repositry<br>
 <br><br>
