@@ -1,6 +1,6 @@
 # How to work GitHub
 <br><br><br>
-#Creating a username<br>
+#Creating an account<br>
   ->Username<br>
   ->Email<br>
   ->Password<br>
