@@ -26,5 +26,5 @@ Generation-i and  Generation-ii (are repositries)<br>
     <br><br>
 #Edit a File<br>
   ->go to file you want to edit<br>
-    ->Click pencil icon, it's next to the garbage icon
+    ->Click pencil icon, it's next to the garbage icon(which can be used to delete a file)
   
